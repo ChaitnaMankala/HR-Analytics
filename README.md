@@ -31,5 +31,4 @@ This project focuses on analyzing employee data to understand the key factors co
 
 - Incorporate additional employee engagement and compensation features
 - Experiment with advanced ensemble models
-
-Deploy the model as a dashboard or API for real-time HR decision support
+- Deploy the model as a dashboard or API for real-time HR decision support
