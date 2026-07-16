@@ -113,26 +113,5 @@ The project addresses the challenge of transforming raw HR data into actionable 
 
 ---
 
-## How to Run the Project
-
-1. Clone the repository and set up the environment.
-2. Install required Python libraries:
-   ```bash
-   pip install pandas matplotlib seaborn pymysql
-   ```
-3. Execute the data cleaning script (`HR_Data_Cleaning.ipynb`).
-4. Import the cleaned data into MySQL using the SQL script (`HR_Analytics.sql`).
-5. Run the EDA script (`HR_Analytics_EDA.ipynb`) for analysis.
-6. Connect Power BI to the MySQL database and interact with the dashboard(`HR Dashboard.pbix`) or interact with dashboard with published linked(`https://app.powerbi.com/view?r=eyJrIjoiNzZlNDRiY2UtNmVlOC00MzhjLTgzNzMtOGU0NTE1YmYxMjAzIiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9`).
-
----
-
 ## Conclusion
 This project showcases how to integrate Python, SQL, and Power BI to derive actionable insights from HR data, enabling effective decision-making in HR management. The workflow and tools used ensure data accuracy, scalability, and accessibility for stakeholders.
-
----
-
-## Author
-Rafi Qamar  
-
-
